@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "f0db2eec5895280f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2883be70294789a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bee063faff7f6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leitura/Livros 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livros 2025"
+            }
+          },
+          {
+            "id": "f978e259592eec62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Java/Spring Rest/Spring Rest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Rest"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21805881187b1b79",
+    "type": "split",
+    "children": [
+      {
+        "id": "5297293d70c947e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "305b0b0cdb05fc64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53ea26a631e0adf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70899fa95c9c870d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2669dcefbf765c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad2f6f1d563acfa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b34a0a044e0bee3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend Java/Docker/Short Cuts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Short Cuts"
+            }
+          },
+          {
+            "id": "58238dfcc0dffc3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend Java/Docker/Short Cuts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Short Cuts"
+            }
+          },
+          {
+            "id": "4f29d9a93ccd7329",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "599be3f7b1e435c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend Java/Docker/Short Cuts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Short Cuts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f978e259592eec62",
+  "lastOpenFiles": [
+    "Project Ideas/Frontend rasfood-api.md",
+    "Backend Java/Spring Rest/Spring Rest.md",
+    "Project Ideas/Project Ideas.md",
+    "Leitura/Livros 2025.md",
+    "Project Ideas/Finance Control.md",
+    "Backend Java/Spring Data/Spring Data.md",
+    "Project Ideas",
+    "Backend Java/JPA Hibernate/JPA Hibernate.md",
+    "Backend Java/Spring Data/img",
+    "Backend Java/Spring Data/img/Pasted image 20250312222615.png",
+    "Excalidraw/Drawing 2025-03-12 20.38.19.excalidraw.md",
+    "Backend Java/Spring Security",
+    "Backend Java/Spring Rest",
+    "Backend Java/Spring Data",
+    "Leitura/Como Cultivar uma Vida de Leitura.md",
+    "Lista de Hierarquia de diversão.md",
+    "Backend Java/JPA Hibernate/img/JPAFrameworks.png",
+    "Leitura",
+    "Untitled.md",
+    "NeoVim/ShortCuts.md",
+    "NeoVim",
+    "Comercial/Capacitação/Prospecção Ativa.md",
+    "Comercial/Capacitação/img/Pasted image 20250226204505.png",
+    "Comercial/Capacitação/img/Pasted image 20250226204513.png",
+    "Comercial/Capacitação/img/Pasted image 20250226195742.png",
+    "Comercial/Capacitação/img",
+    "Comercial/Capacitação",
+    "Comercial",
+    "Comercial/Capacitação/img/Pasted image 20250226194208.png",
+    "Backend Java/JPA Hibernate/img/Pasted image 20250226171015.png",
+    "Backend Java/JPA Hibernate/img/Pasted image 20250226165223.png",
+    "Backend Java/JPA Hibernate/img/Pasted image 20250226163759.png",
+    "Backend Java/JPA Hibernate/img/Pasted image 20250226163055.png",
+    "Excalidraw/Drawing 2025-02-26 16.45.36.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-22 16.54.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-24 16.58.08.excalidraw.md",
+    "Test.md",
+    "Backend Java/Docker/All Docker.md",
+    "Backend Java/Exeptions/Exeptions.md",
+    "Backend Java/MongoDB/All Mongo DB.md",
+    "Untitled.canvas",
+    "2025-02-24.md",
+    "Backend Java/Docker/Themes/Volumes.md",
+    "Backend Java/Docker/Themes/Short Cuts.md",
+    "Backend Java/Docker/Themes/Flags.md"
+  ]
+}
