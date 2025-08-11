@@ -1,0 +1,1 @@
+Pacotes são dados que foram divididos, para ser trafegados.

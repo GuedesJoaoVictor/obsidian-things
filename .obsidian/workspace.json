@@ -27,16 +27,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Java/Spring Rest/Spring Rest.md",
+                "file": "Redes de Computadores/Redes de Computadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Rest"
+              "title": "Redes de Computadores"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "73c7b0db23e40de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e85f5c07f2b688",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Redes de Computadores/REDES Introducao 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "REDES Introducao 1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +205,13 @@
   },
   "active": "f978e259592eec62",
   "lastOpenFiles": [
-    "Project Ideas/Frontend rasfood-api.md",
+    "Redes de Computadores/Pacotes.md",
+    "Redes de Computadores/Redes de Computadores.md",
+    "Redes de Computadores/REDES Introducao 1.pdf",
+    "NeoVim/ShortCuts.md",
+    "Redes de Computadores/Enlace.md",
     "Backend Java/Spring Rest/Spring Rest.md",
+    "Project Ideas/Frontend rasfood-api.md",
     "Project Ideas/Project Ideas.md",
     "Leitura/Livros 2025.md",
     "Project Ideas/Finance Control.md",
@@ -206,7 +229,6 @@
     "Backend Java/JPA Hibernate/img/JPAFrameworks.png",
     "Leitura",
     "Untitled.md",
-    "NeoVim/ShortCuts.md",
     "NeoVim",
     "Comercial/Capacitação/Prospecção Ativa.md",
     "Comercial/Capacitação/img/Pasted image 20250226204505.png",
@@ -214,7 +236,6 @@
     "Comercial/Capacitação/img/Pasted image 20250226195742.png",
     "Comercial/Capacitação/img",
     "Comercial/Capacitação",
-    "Comercial",
     "Comercial/Capacitação/img/Pasted image 20250226194208.png",
     "Backend Java/JPA Hibernate/img/Pasted image 20250226171015.png",
     "Backend Java/JPA Hibernate/img/Pasted image 20250226165223.png",
@@ -229,8 +250,6 @@
     "Backend Java/MongoDB/All Mongo DB.md",
     "Untitled.canvas",
     "2025-02-24.md",
-    "Backend Java/Docker/Themes/Volumes.md",
-    "Backend Java/Docker/Themes/Short Cuts.md",
-    "Backend Java/Docker/Themes/Flags.md"
+    "Backend Java/Docker/Themes/Volumes.md"
   ]
 }
