@@ -37,3 +37,51 @@ A WWW (World Wide Web) é um sistema distribuído, que funciona na Internet.
 
 5. O que é a internet? Comente somente a sua origem e evolução.
 A Internet é uma rede de redes, onde trafegam todos os dados, pacotes, etc. Começou como a ARPANET contendo emails, logon remoto e tranferencia de arquivos, que ao longo do tempo foi evoluindo, adotando protocolos como o TCP, IP e ficando mais robusta no sentido de conectar globalmente os usuários.
+
+PDF Aula 2 - [[REDES Introducao 2.pdf]]
+
+Ao escolher um provedor de internet, ele vai lhe dar permissão para usar a *rede de acesso*  deles.
+
+* Sistemas finais (hospedeiros)
+	* Executar programas de aplicação.
+	* Estão na borda da rede.
+
+* Modelo cliente/servidor
+	* hospedeiro cliente solicita, recebe serviço de servidor sempre ativo
+	*  p. e. navegador/servidor Web; cliente/servidor de e-mail
+
+* Modelo peer to peer
+	* Uso mínimo (ou nenhum) de servidores dedicados
+	* p. e. Skype, BitTorrent
+
+Meios de acesso  a internet:
+* DSL
+Era um par trançado de fios em que era usado para o telefone que também servia para conectar a internet.
+
+* Modens a cabo
+Não usa infraestrutura de telefone, mas sim a de tv a cabo.
+HFC: Hybrid Fiber Coax
+rede de cabo e fibra conecta  casas ao roteador ISP
+ -Casas compartilham acesso ao roteador
+  -diferente de DSL, que tem acesso dedicado
+
+Canal: Forma de pedir um meio físico.
+
+* Ethernet
+normalmente usado em empresas, universidades, etc.
+Roteador > Switch > Computadores.
+
+> Redes residenciais, o que normalmente temos.
+
+* modem DSL ou a cabo
+* roteador/firewall/NAT(network address translation)
+* Ethernet
+* ponto de acesso sem fio
+
+O modem traduz os pacotes para como você recebe (por protocolos) a internet, exemplo:
+Pacote > Fibra óptica
+
+[[Topologia de Rede]]
+
+* [[Full Mesh]]
+* [[Interconexão Parcial]]

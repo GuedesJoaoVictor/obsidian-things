@@ -4,55 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "546341184276701f",
+        "id": "28683c75561c4094",
         "type": "tabs",
+        "dimension": 34.64467005076142,
         "children": [
           {
-            "id": "10b66280713fced6",
+            "id": "8dbd3edf650e8888",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "00eb9d02c5ded434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOps.md",
+                "file": "Redes de Computadores/Topologia de Rede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d5d28f14a5dc12c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6953cca39884ef65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DevOps/pdfs/aula2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "aula2"
-            }
-          },
-          {
-            "id": "cda8d31ec20d1b77",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DevOps/pdfs/aula3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "aula3"
+              "title": "Topologia de Rede"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fce1e47dc8861915",
+        "type": "tabs",
+        "dimension": 65.35532994923858,
+        "children": [
+          {
+            "id": "b49f0699d44f0937",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Redes de Computadores/REDES Introducao 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "REDES Introducao 2"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,12 +201,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10b66280713fced6",
+  "active": "00eb9d02c5ded434",
   "lastOpenFiles": [
-    "DevOps/DevOps critical success factors.md",
-    "DevOps/DevOps.md",
-    "DevOps/pdfs/aula3.pdf",
+    "Redes de Computadores/REDES Introducao 2.pdf",
+    "Redes de Computadores/Topologia de Rede.md",
+    "Redes de Computadores/Redes de Computadores.md",
+    "Redes de Computadores/Pacotes.md",
+    "Redes de Computadores/Full Mesh.md",
+    "Redes de Computadores/Rede Interconexão Parcial.png",
+    "Redes de Computadores/Rede FullMesh.png",
+    "Redes de Computadores/Enlace.md",
+    "Redes de Computadores/Transporte.md",
+    "Redes de Computadores/REDES Introducao 1.pdf",
+    "Lista de Hierarquia de diversão.md",
+    "Interconexão Parcial.md",
+    "Redes de Computadores/Não confirmado 990225.crdownload",
+    "Comercial/Capacitação/Prospecção Ativa.md",
+    "Excalidraw/Drawing 2025-03-12 20.38.19.excalidraw.md",
     "DevOps/pdfs/aula2.pdf",
+    "DevOps/pdfs/aula3.pdf",
+    "DevOps/DevOps.md",
+    "DevOps/DevOps critical success factors.md",
     "NeoVim/ShortCuts.md",
     "DevOps/A survey of DevOps Concepts and Challenges.md",
     "DevOps/pdfs/aula4.pdf",
@@ -214,12 +229,6 @@
     "DevOps/pdfs/Artigo 2 DevOps.pdf",
     "DevOps/pdfs",
     "DevOps/pdfs/Lista - Comandos Linux 1.pdf",
-    "DevOps/Não confirmado 881286.crdownload",
-    "Redes de Computadores/REDES Introducao 1.pdf",
-    "Redes de Computadores/Redes de Computadores.md",
-    "DevOps",
-    "Redes de Computadores/Pacotes.md",
-    "Redes de Computadores/Enlace.md",
     "Backend Java/Spring Rest/Spring Rest.md",
     "Project Ideas/Frontend rasfood-api.md",
     "Project Ideas/Project Ideas.md",
@@ -228,26 +237,17 @@
     "Backend Java/Spring Data/Spring Data.md",
     "Backend Java/JPA Hibernate/JPA Hibernate.md",
     "Backend Java/Spring Data/img/Pasted image 20250312222615.png",
-    "Excalidraw/Drawing 2025-03-12 20.38.19.excalidraw.md",
     "Leitura/Como Cultivar uma Vida de Leitura.md",
-    "Lista de Hierarquia de diversão.md",
     "Backend Java/JPA Hibernate/img/JPAFrameworks.png",
     "Untitled.md",
-    "Comercial/Capacitação/Prospecção Ativa.md",
     "Comercial/Capacitação/img/Pasted image 20250226204505.png",
     "Comercial/Capacitação/img/Pasted image 20250226204513.png",
     "Comercial/Capacitação/img/Pasted image 20250226195742.png",
     "Comercial/Capacitação/img/Pasted image 20250226194208.png",
     "Backend Java/JPA Hibernate/img/Pasted image 20250226171015.png",
     "Backend Java/JPA Hibernate/img/Pasted image 20250226165223.png",
-    "Backend Java/JPA Hibernate/img/Pasted image 20250226163759.png",
-    "Backend Java/JPA Hibernate/img/Pasted image 20250226163055.png",
     "Excalidraw/Drawing 2025-02-26 16.45.36.excalidraw.md",
     "Excalidraw/Drawing 2025-02-22 16.54.54.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-24 16.58.08.excalidraw.md",
-    "Test.md",
-    "Backend Java/Docker/All Docker.md",
-    "Backend Java/Exeptions/Exeptions.md",
     "Untitled.canvas"
   ]
 }
